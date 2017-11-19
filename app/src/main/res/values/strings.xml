@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppliCourse</string>
+    <string name="title_activity_ajout_article">AjoutArticleActivity</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "324749194588",
+    "firebase_url": "https://applicourse-f525d.firebaseio.com",
+    "project_id": "applicourse-f525d",
+    "storage_bucket": "applicourse-f525d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324749194588:android:46deec9c0b55ad8c",
+        "android_client_info": {
+          "package_name": "com.example.victor.applicourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324749194588-9tcaib9vt4f1v90nqc01qq1tnkqug7i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeUO_cI2adiiXj-sRvXklN5LkP2mDkZzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
